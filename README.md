@@ -12,6 +12,9 @@ Article:
 
 https://chdi.wiscweb.wisc.edu/wp-content/uploads/sites/620/2018/06/Breast-Cancer-Disparities-between-AA-W-Women-in-WI.pdf
 
+This article discusses the disparities between breast cancer rates between different demographics in Wisconsin.
+Specifically the difference in rates between white and African American women. It also discusses some potential causes of this difference.
+
 
 Questions we might explore: 
 
