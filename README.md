@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 Article:
 
-(https://chdi.wiscweb.wisc.edu/wp-content/uploads/sites/620/2018/06/Breast-Cancer-Disparities-between-AA-W-Women-in-WI.pdf)
+https://chdi.wiscweb.wisc.edu/wp-content/uploads/sites/620/2018/06/Breast-Cancer-Disparities-between-AA-W-Women-in-WI.pdf
 
 
 Questions we might explore: 
