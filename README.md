@@ -15,6 +15,7 @@ https://link.springer.com/article/10.1007/s11548-016-1437-9
 
 
 Questions we might explore: 
+
 How does the distribution of tumor characteristics in Wisconsin compare to national averages?
 - Are tumors in the Wisconsin data set more irregular, more aggresive, etc.
 
