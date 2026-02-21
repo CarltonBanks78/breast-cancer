@@ -26,3 +26,6 @@ Are Wisconsin malignancy rates similar to U.S. malignancy rates?
 
 What features most strongly distinguish malignant from benign tumors?
 - What kind of cluster characteristics are there? 
+
+
+My partner is Dennis Allen III.
