@@ -6,3 +6,8 @@ Breast cancer is the most common form of cancer in women. About 25% of cancer ca
 
 https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
+
+
+Article 
+
+https://link.springer.com/article/10.1007/s11548-016-1437-9
