@@ -8,10 +8,9 @@ https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
 https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset
 
 
-Article 
+Article:
 
-https://link.springer.com/article/10.1007/s11548-016-1437-9
-
+(https://chdi.wiscweb.wisc.edu/wp-content/uploads/sites/620/2018/06/Breast-Cancer-Disparities-between-AA-W-Women-in-WI.pdf)
 
 
 Questions we might explore: 
