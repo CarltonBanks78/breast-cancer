@@ -34,6 +34,8 @@ To answer these questions, we will comapre various features of our two datasets,
 - perimeter
 - area
 
+This analysis will provide insight into why the distribution of cancer in Wisconsin is irregular, which in turn will be able to help researchers discover more about breast cancer. 
+
 
 
 
