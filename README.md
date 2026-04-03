@@ -28,4 +28,17 @@ What features most strongly distinguish malignant from benign tumors?
 - What kind of cluster characteristics are there? 
 
 
+To answer these questions, we will comapre various features of our two datasets, such as:
+- radius (mean of distances from center to points on the perimeter)
+-  texture (standard deviation of gray-scale values)
+- perimeter
+- area
+
+
+
+
+
+
+
+
 My partner is Dennis Allen III.
